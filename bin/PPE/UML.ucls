@@ -1,0 +1,233 @@
+<class-diagram version="1.0.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="PPE.Root" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Root.java" binary="false">    
+    <position height="78" width="85" x="2152" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="PPE.AdminLigue" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/AdminLigue.java" binary="false">    
+    <position height="78" width="91" x="182" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="PPE.EnAttente" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/EnAttente.java" binary="false">    
+    <position height="78" width="85" x="1777" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="PPE.Score" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Score.java" binary="false">    
+    <position height="78" width="85" x="1862" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="PPE.Lieu" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Lieu.java" binary="false">    
+    <position height="78" width="85" x="313" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="PPE.Date" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Date.java" binary="false">    
+    <position height="78" width="85" x="438" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="PPE.Categorie" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Categorie.java" binary="false">    
+    <position height="78" width="85" x="563" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="PPE.Utilisateur" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Utilisateur.java" binary="false">    
+    <position height="95" width="96" x="2152" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="PPE.ScoreParEtape" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/ScoreParEtape.java" binary="false">    
+    <position height="78" width="110" x="1627" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="PPE.EtapeScore" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/EtapeScore.java" binary="false">    
+    <position height="78" width="90" x="1627" y="336"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="PPE.Ligue" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Ligue.java" binary="false">    
+    <position height="78" width="85" x="2288" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="PPE.Ronde" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Ronde.java" binary="false">    
+    <position height="78" width="85" x="813" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="PPE.Club" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Club.java" binary="false">    
+    <position height="78" width="85" x="2288" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="PPE.Equipe" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Equipe.java" binary="false">    
+    <position height="78" width="85" x="688" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="PPE.AdminClub" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/AdminClub.java" binary="false">    
+    <position height="78" width="85" x="1098" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="PPE.Chrono" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Chrono.java" binary="false">    
+    <position height="78" width="85" x="1902" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" corner="BOTTOM_RIGHT" language="java" name="PPE.EliminationDirect" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/EliminationDirect.java" binary="false">    
+    <position height="78" width="120" x="938" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="PPE.EtapeTournoi" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/EtapeTournoi.java" binary="false">    
+    <position height="78" width="98" x="1223" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" corner="BOTTOM_RIGHT" language="java" name="PPE.Points" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Points.java" binary="false">    
+    <position height="78" width="85" x="2027" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" corner="BOTTOM_RIGHT" language="java" name="PPE.Participant" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Participant.java" binary="false">    
+    <position height="78" width="86" x="1361" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" corner="BOTTOM_RIGHT" language="java" name="PPE.Rencontre" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Rencontre.java" binary="false">    
+    <position height="78" width="85" x="1612" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="22" corner="BOTTOM_RIGHT" language="java" name="PPE.Joueur" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Joueur.java" binary="false">    
+    <position height="78" width="85" x="1487" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="23" corner="BOTTOM_RIGHT" language="java" name="PPE.Tournoi" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/Tournoi.java" binary="false">    
+    <position height="78" width="85" x="1737" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="24" corner="BOTTOM_RIGHT" language="java" name="PPE.SuperAdminLigue" project="PPEMESLE" 
+    file="/PPEMESLE/src/PPE/SuperAdminLigue.java" binary="false">    
+    <position height="78" width="125" x="1987" y="83"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="30">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="31" name="ligue"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
